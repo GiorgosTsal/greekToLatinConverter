@@ -1,13 +1,3 @@
-/*
-
-Author: Georgios Tsalidis
-Date:12/11/2018
-
-
-*/
-
-
-
 window.onload = function() {
 
         var inputElement = document.getElementById('input')
